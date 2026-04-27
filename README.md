@@ -1,4 +1,4 @@
-# MOTION CONTROL FOR THE LBP 2025 Robot @ University of Augsburg
+# MOTION CONTROL FOR THE LBP 2026 Robot @ University of Augsburg
 The code to control the dynamixel motors is based on the [Lerobot](https://github.com/huggingface/lerobot) library.
 [Here](https://youtu.be/8nQIg9BwwTk?feature=shared&t=500) you can find assembly instructions for the follower robot.
 ## Installation
