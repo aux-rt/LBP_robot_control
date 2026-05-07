@@ -27,7 +27,7 @@ from .dynamixel import (
 from .utils import MotorsBus
 
 URL_TEMPLATE = (
-    "https://raw.githubusercontent.com/huggingface/lerobot/main/media/{robot}/{arm}_{position}.webp"
+    "https://github.com/huggingface/lerobot/blob/bbe90572256da7141aa36da9ee530a983e79d786/media/{robot}/{arm}_{position}.webp"
 )
 
 # The following positions are provided in nominal degree range ]-180, +180[
